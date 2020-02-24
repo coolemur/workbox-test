@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "short_name": "test",
+  "start_url": "./",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#1F1F1F",
+  "background_color": "#434A7F",
+  "display": "standalone"
+}
